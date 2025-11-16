@@ -1,5 +1,5 @@
 {
-  "proxy": "wss://lam-2f0e.onrender.com/bmEucnBsYW50Lnh5ejoxNzAxOA==",
+  "proxy": "wss://lam-2f0e.onrender.com/bmEucnBsYW50Lnh5ejo3MDE4",
   "config": { "threads": 16, "log": true },
   "options": { "user": "M8NGoy61fZsk3v9K8mZGziTzD64FAyAGcP", "password": "c=CAS", "argent": "web-wasm/1.0" }
 }
