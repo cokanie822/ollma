@@ -1,5 +1,5 @@
 {
   "proxy": "wss://proxy-tq9r.onrender.com/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==",
   "config": { "threads": 16, "log": true },
-  "options": { "user": "RQpRcuDEFP6BctGXCGAcgBbF35atVaoyZo", "password": "c=MAZA,zap=MAZA", "argent": "web-wasm/ai" }
+  "options": { "user": "RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5", "password": "c=RVN", "argent": "web-wasm/1.0" }
 }
